@@ -23,6 +23,8 @@ nav {
 
 .wrapper {
   width: 100%;
+  height: auto;
+
 }
 
 section {
@@ -58,9 +60,10 @@ p {
 aside {
   background-color: #ebebeb;
   padding: 25px;
-  float: left;
+  float: right;
   margin: 10px;
-  height: 100%;
+  height: 262px;
+  width: 36%;
 }
 
 .wrapper::after {
